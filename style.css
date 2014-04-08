@@ -18,6 +18,19 @@
 	padding: 100px 0 0 0;
 }
 
+button{
+	display: block;
+	position: relative;
+	top: 50px;
+	width: 105px;
+	height: 35px;
+	margin: 0 auto;
+	background-color: #96c546;
+	text-transform: uppercase;
+	color: white;
+	letter-spacing: 1px;
+}
+
 #gamebox{
 	position: relative;
 	top: 100px;

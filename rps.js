@@ -1,3 +1,5 @@
+function game(){
+
 var cookieType = prompt("It's time to take part in the ancient art of cookie baking, shall we make CHOCOLATECHIP, PEANUTBUTTER, or GINGER cookies?").toUpperCase();
 
 
@@ -37,4 +39,6 @@ switch(cookieType) {
     break;
   default:
     console.log("Pick a cookie type, or else.");
+}
+
 }
